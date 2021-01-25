@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+#logo{
+    margin-left: 370px;
+    height: 350px;
+    width: 400px;
+    
+}
+
+.social{
+    height: 100px;
+    width: 100px;
+}
+
+#logoset{
+    height: 130px;
+    width: 130px;
+}
+
+#cont{
+    background-color: black;
+    font-weight: bolder;
+    color: white;
+}
+iframe{
+    width: 100%;
+}
+
+#dd{
+    width: 100px;
+    height: 100px;
+}
+
+#more{
+    display: none;
+}
